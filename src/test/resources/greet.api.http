@@ -1,0 +1,17 @@
+# curl http://localhost:8080/hello?name=Misra
+GET http://localhost:8080/hello?name=Misra
+
+###
+GET http://localhost:8080/hello?name=Amit
+
+###
+GET http://localhost:8080/hello?name=Arav
+
+###
+GET http://localhost:8080/hello?name=Arin
+
+###
+GET http://localhost:8080/hello?name=Richa
+
+###
+GET http://localhost:8080/hello?name=Pahwa
